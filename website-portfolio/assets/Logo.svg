@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="185px" height="169px" viewBox="0 0 185 169" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="3.48660293%" y1="5.27334256%" x2="96.2541604%" y2="95.1525355%" id="linearGradient-1">
+            <stop stop-color="#FF7979" offset="0%"></stop>
+            <stop stop-color="#EC0000" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MAIN-PAGE" transform="translate(-34.000000, -30.000000)">
+            <g id="Logo" transform="translate(34.000000, 30.000000)">
+                <g id="Rectangle-7">
+                    <path d="M16.0943501,165.180329 C15.8566145,164.958189 4.66504446,153.598577 4.44620199,153.357283 C2.13389878,151.196675 0.685185185,148.099468 0.685185185,144.660361 L0.685185185,12.5165937 C0.685185185,5.98796917 5.90260496,0.695473251 12.337264,0.695473251 L161.014588,0.695473251 C164.407302,0.695473251 167.461352,2.16719348 169.590835,4.51514452 C169.828571,4.73728398 181.020141,16.0968959 181.238983,16.3381898 C183.551286,18.4987985 185,21.5960057 185,25.0351123 L185,157.17888 C185,163.707504 179.78258,169 173.347921,169 L24.6705973,169 C21.277883,169 18.2238334,167.52828 16.0943501,165.180329 L16.0943501,165.180329 Z" id="Rectangle-7-Shadow" fill-opacity="0.3" fill="#000000"></path>
+                    <rect fill="url(#linearGradient-1)" x="0" y="0" width="171.981481" height="155.786008" rx="17"></rect>
+                </g>
+                <text id="TECHE-SURAJ" font-family="Futura-CondensedMedium, Futura" font-size="36" font-style="condensed" font-weight="500" letter-spacing="5.8499999" fill="#FFFFFF">
+                    <tspan x="32.8888889" y="76.5">TECHE</tspan>
+                    <tspan x="130.640842" y="76.5" font-family="Futura-Bold, Futura" font-weight="bold"></tspan>
+                    <tspan x="32.8888889" y="119.5">SURAJ</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

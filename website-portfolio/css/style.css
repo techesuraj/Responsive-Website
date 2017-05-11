@@ -1,0 +1,149 @@
+
+
+/*BODY START*/
+body{
+  font: 15px/1.5 Futura-CondensedMedium, Arial, Helvetica, sans-serif;
+  margin:0;
+  padding:0;
+}
+
+/*BODY END*/
+
+
+
+
+/*LOGO START*/
+.logo{
+  width:100px;
+  height: 100px;
+}
+/*LOGO END*/
+
+
+
+/*NAVIGATION BAR START*/
+ul{
+  padding: 0;
+  margin: 0;
+}
+
+.navigation{
+  list-style: none;
+  margin: 0;
+  /*position:fixed;*/
+  top:0;
+  z-index: 0;
+  background:#E74C3C;
+  width: 100%;
+  display:-webkit-box;
+  display: -moz-box;
+  display: flex;
+  align-items: center;
+  flex-flow: row wrap;
+  
+}
+.navigation li:first-child{
+  margin-right: auto;
+  
+}
+
+.navigation li:nth-child(5) {
+  margin-right: 100px;
+  
+}
+
+/*NAVIGATION BAR END*/
+
+
+
+/*NAVIGATION LIST START*/
+.navigation li{
+  
+  font-size: 28px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  padding:0 10px 0 10px;
+  color:#34495E;
+
+}
+/*NAVIGATION LIST END*/
+
+
+/*BUTTON START*/
+#btn-hireme{
+  background:#ECF0F1;
+  border-radius:49px;
+  border:0px;
+  padding: 0 30px 0 30px;
+}
+
+#btn-hireme:hover {
+  background: #3498DB;
+}
+/*BUTTON END*/
+
+
+/*MAIN PAGE START*/
+
+
+/*MAIN PAGE END*/
+
+
+
+#about{
+  margin-top: 200px;
+}
+
+/*MAIN SHOWCASE START*/
+
+
+/*background colors*/
+.background-colors{
+    color: #fff;
+    background: linear-gradient(110deg, #E74C3C 33%, rgba(0, 0, 0, 0) 33%), linear-gradient(110deg, #ECF0F1 66%, #3498DB 66%);
+    /*padding-top: 650px;*/
+    height: 50vh;
+    width: 100%;    
+}
+
+/*Play build work text*/
+
+
+.background-color ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    align-items: center;
+    
+}
+ li:nth-child(1) {
+    order: 0;
+    flex: 0 1 auto;
+    align-self: flex-end;
+    }
+
+ li:nth-child(2) {
+    order: 0;
+    flex: 0 1 auto;
+    align-self: auto;
+    }
+
+li:nth-child(3) {
+    order: 0;
+    flex: 0 1 auto;
+    align-self: auto;
+    }
+
+li{
+  font-size:48px;
+  color: #34495E;
+  letter-spacing: 10px;
+}
+/*MAIN SHOWCASE END*/
+
+
+
+
